@@ -65,7 +65,7 @@ main {
   margin: 0 auto;
 }
 
-h1, h2, .subtitle {
+h1, h2, h3, .subtitle {
   font-family: "Cormorant Garamond", Georgia, serif;
 }
 
