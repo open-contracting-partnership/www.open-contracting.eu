@@ -93,9 +93,17 @@ h1 {
 }
 
 h2 {
-  font-size: 1.35rem;
+  font-size: 1.4rem;
   font-weight: 700;
   margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  letter-spacing: -0.01em;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 2rem;
   margin-bottom: 0.75rem;
   letter-spacing: -0.01em;
 }
@@ -105,6 +113,10 @@ p, ul, dl {
 }
 
 ul {
+  padding-left: 1.25rem;
+}
+
+ol {
   padding-left: 1.25rem;
 }
 
