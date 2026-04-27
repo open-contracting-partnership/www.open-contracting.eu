@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Stichting voor Open Contracting (SvOC)</title>
+  <link rel="preload" href="fonts/GT-Eesti-Display-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/GT-Eesti-Display-Medium.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/GT-Eesti-Display-Bold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <hgroup>
+      <img src="files/Stichting-Logo.png" width="25%">
+      <h1>About us</h1>
+    </hgroup>
+
+    <p><strong>Stichting voor Open Contracting</strong> is an independent Dutch charitable foundation based in the Netherlands working to transform public procurement from a hidden "black box" into an "open book". While we operate as an independent organization, we are part of a global movement, including working alongside our U.S.-based sister organization Open Contracting Partnership, to bring transparency and integrity to government spending across Europe and beyond.</p>
+<p>We make public contracting fairer and better supporting economic inclusion and innovation, public trust and better use of public money for people and planet.<br><br></p> 
+<p>Our objectives are to support:</p>
+    <p>We will focus on the following programmatic areas:</p>
+    
+    <ul>
+      <li><strong>Democratic and accountable governments:</strong> We support and implement transparent, fair, and inclusive public procurement processes. </li>
+      <li><strong>Fairer markets:</strong> We promote open and fair competition so businesses can compete on a level playing field.</li>
+      <li><strong>Sustainable communities:</strong> We shift public spending toward social and environmental goals, not just the lowest bidder.</li>
+      <li><strong>Resilient and just societies:</strong> We fight corruption and promote transparency to build public trust in democratic institutions.</li>  
+    </ul>
+
+    <h2>Our board</h2>
+    <p>Stichting voor Open Contracting is built on a foundation of strict independence and transparency.</p>
+    <p>Our organization is governed by a "two-tier" model designed to ensure that no single entity or donor has dominant control over our assets or policy:
+ </p>
+    <ol>
+    <li><strong>Board of Directors: </strong><br>
+        The Board of Directors is responsible for the day-to-day operations and policy-making. To ensure a strong local connection, the majority of our board are Dutch or European residents.</li>
+    <li><strong>Supervisory board </strong><br>
+        The Supervisory Board provides oversight and monitors the foundation’s long-term strategy and objectives. It has the authority to appoint or dismiss directors and approve major organizational decisions.</li>
+    </ol>
+    
+    <h2>Our Board of Directors</h2>
+    <p><strong>Jesse Renema</strong></p>
+<p>Jesse Renema serves as the Open Data Coordinator at the Netherlands’ Ministry of Economic Affairs. His work focuses on enabling open data as a driver for transparency, innovation, and citizen engagement, helping public institutions publish data that strengthens trust, accountability, and public value. He is deeply motivated by the belief that transparency is not an end in itself, but a means to ensure fair competition and smarter public spending. </p>
+<p>Previously, Jesse worked in civil society to advance open contracting and open spending initiatives. As a project lead, he helped municipalities and local governments publish critical financial and procurement data, including budgets and quarterly results. He also played a key role in the Open Spending EU coalition, advocating for greater transparency in contract award data across EU member states. </p>
+<p>Jesse holds a background in Political Science and Science, Society, and Technology studies. His academic and professional work remains centered on the intersection of data and democratic health. </p>
+
+<p><strong>Eke Verbeke</strong></p>
+<p>Eke Verbeke is the Lead of JTC Institutional Services in the Netherlands and a member of the JTC Institutional Capital Services Executive Committee. With a career spanning over two decades in financial services, Eke focuses on business development and regional strategy. He brings a results-driven and collaborative approach to the board, bridging the gap between high-level financial strategy and institutional growth. </p>
+<p>Before joining JTC in 2018, Eke held senior leadership roles at JP Morgan and Intertrust, where he led international M&A initiatives and growth strategies. He also founded Van Doorn CFS, serving as its Managing Director until its acquisition. His extensive experience in global markets provides a vital perspective on the scalability of organizational initiatives. </p>
+<p>Eke studied Notarial Law at the University of Utrecht and began his career in the banking sector. His deep expertise in international markets is complemented by his multilingual proficiency in Dutch, English, Indonesian, French, and German. </p>
+
+<p><strong>Kathrin Frauscher</strong></p>
+<p>Kathrin Frauscher is the Deputy Executive Director of the Open Contracting Partnership, where she leads efforts to transform public procurement into a tool for social good. Kathrin is passionate about creating systems that work for people, a drive that carries through both her professional and community engagements. </p>
+<p>Her journey as a social entrepreneur and co-founder of the Open Contracting Partnership began at the World Bank Institute. Through a user-centered, iterative process, she set out to create a global organization capable of working across stakeholder groups to realize the power of procurement. Previously, at the World Bank, she collaborated with governments and civil society in Nigeria, Uganda, and Mongolia to open up government contracting and ensure public resources deliver value for everyone. </p>
+<p>Kathrin holds a Master’s in Advanced International Relations from the Paul H. Nitze School of Advanced International Studies of Johns Hopkins University (SAIS) and a BA in Economics from the University of Vienna. In 2021, she was named a Fellow of World Commerce & Contracting for her significant contributions to the field.
+ </p>
+
+ <h2>Our Supervisory Board</h2>
+    <p><strong>Gavin Hayman, Chair</strong></p>
+    <p>Alan Detheridge</p>
+    <p>Steve Chaplain</p>
+
+<h2>Our commitment to public transparency</h2>
+<p>We believe in leading by example. Our <a href="files/articles-of-incorporation.pdf" target="_blank">Policy Plan (Beleidsplan)</a> outlines our planned activities, fundraising methods, and how we manage our assets. Furthermore, we publish annual financial information to ensure our stakeholders and the public can hold us accountable for the impact that we claim to create.</p>
+
+<p>Our non-profit commitment
+<p><strong>Asset protection:</strong> All funds are exclusively dedicated to our charitable mission; board members and third parties are strictly prohibited from treating the foundation's assets as their own.</p>
+<p><strong>No remuneration:</strong> In accordance with Dutch law for public benefit organizations, members of the Board of Directors and Supervisory Board perform their strategic duties without salary, although reasonable reimbursement for expenses are allowed with prior approval.</p>
+<p><strong>Liquidation surplus:</strong> In the event the foundation is dissolved, any remaining surplus must be spent on a similar public interest purpose.
+</p>
+
+<h2>Contact</h2>
+    <dl>
+      <dt>Address</dt>
+      <dd>Eduard Jurgen Verbeke<br>Parnassus Tower, Locatellikade 1, 1076 AZ, Amsterdam, the Netherlands</dd>
+      <dt>RSIN</dt>
+      <dd>869073254</dd>
+    </dl>
+
+  </main>
+</body>
+</html>
