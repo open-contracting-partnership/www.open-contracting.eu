@@ -27,8 +27,8 @@
 :root {
   --text: #1a1a1a;
   --text-light: #323238;
-  --bg: ##f3f1ee;
-  --accent: #6C75E1;
+  --bg: #f3f1ee;
+  --accent: #d6e100;
   --max-width: 42rem;
 }
 
