@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Why Europe</title>
+  <link rel="preload" href="fonts/GT-Eesti-Display-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/GT-Eesti-Display-Medium.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/GT-Eesti-Display-Bold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+   <header class="site-header">
+    <div class="site-header__inner">
+      <a href="http://open-contracting.eu/index.html">
+         <a href="http://open-contracting.eu/index.html"><img src="files/Stichting-Logo.png"></a>
+      </a>
+      <h1>Why Europe?</h1>
+    </div>
+  </header>
+  
+  <main>
+   <section>
+  <h2>The case for open contracting in Europe</h2>
+
+  <p>Public procurement is the backbone of Europe's single market. Every year, over 250,000 public authorities across the EU spend around €2.5 trillion — roughly one euro in three of all public money — on everything from roads and medicines to school meals and clean energy infrastructure.</p>
+
+  <p>How that money is spent is not a technical back-office matter: Europe's policy and practice in procurement shapes markets, sets standards, and determines how public investment delivers real, tangible value to citizens. At the same time, countries across Europe are wrestling with distrust, cronyism and conflicts of interest: public procurement is regularly cited as Europe's number one corruption risk.</p>
+
+  <p>Given that scale, even small improvements will have a huge positive impact. <a href="https://single-market-economy.ec.europa.eu/single-market/public-procurement_en">The Commission calculates that a 1% efficiency gain across EU procurement would save taxpayers an estimated €20 billion a year</a>. Too much procurement is still run as a paper-based, risk-averse chore rather than a smart, data-driven public service. Real transformation means treating procurement information as live, reusable digital data that drives better decisions — not as static paperwork filed and forgotten.</p>
+
+  <p>Beyond its own borders, Europe sets the tempo for global procurement thinking. Yet right now, <a href="https://www.open-contracting.org/2026/02/06/a-smarter-single-market-why-transparency-and-data-must-drive-eu-procurement-reform/">only around 20% of EU procurement spending is visible at the European level</a>, while roughly 80% remains fragmented and largely invisible. Closing that gap is a precondition for a functioning single market.</p>
+</section>
+
+<section>
+  <h2>Why now</h2>
+
+  <p>The window for bold reform is open, but it will not stay open long. Expected to be proposed in 2026, the new EU procurement legislation represents the biggest opportunity to reset the rules in over a decade. The reform should consolidate fragmented rules and, as part of both the Clean Industrial Deal and Single Market Strategy, embed sustainability, resilience, and social criteria directly into procurement decisions.</p>
+
+  <p>We believe the reforms must go further than strategic criteria. <a href="https://www.open-contracting.org/2026/02/06/a-smarter-single-market-why-transparency-and-data-must-drive-eu-procurement-reform/">Simplification and transparency are not trade-offs</a>: they are natural complements. Requiring all contracts above a low threshold to be published in standardised, machine-readable formats would simultaneously reduce administrative burden, open markets to more small businesses, and make it far harder to hide waste, fraud, and abuse.</p>
+
+  <p>That urgency is sharpened by a sobering diagnosis of where Europe currently stands. A <a href="https://www.eca.europa.eu/en/publications/sr-2023-28">landmark report by the European Court of Auditors</a> found that between 2011 and 2021:</p>
+
+  <ul>
+    <li>The share of single-bid procedures nearly <strong>doubled</strong>, rising from 24% to 42%</li>
+    <li>The average number of bids per tender <strong>fell by almost half</strong>, from 5.7 to 3.2</li>
+    <li>Direct awards without competition <strong>surged</strong></li>
+  </ul>
+
+  <p>In many member states, the vast majority of contracts are still awarded solely on the basis of lowest price, with quality, sustainability, and social value left on the table. Good procurement goes far beyond compliance: it is about creating lasting, sustainable value for people and communities. Europe can and must do better — and SvOC is here to help.</p>
+</section>
+
+  </main>
+</body>
+</html>
